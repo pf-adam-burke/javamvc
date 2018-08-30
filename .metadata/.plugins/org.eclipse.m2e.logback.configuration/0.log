@@ -690,3 +690,8 @@
 2018-08-30 14:50:45,432 [Worker-342: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\adam.burke\eclipse-workspace\sample-mvc\CrunchifySpringMVCTutorial\src\main\resources
 2018-08-30 14:50:45,434 [Worker-342: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-08-30 14:50:45,460 [Worker-342: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\adam.burke\eclipse-workspace\sample-mvc\CrunchifySpringMVCTutorial\src\test\resources
+2018-08-30 16:32:22,379 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-08-30 16:32:27,452 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-30 16:32:27,639 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\adam.burke\eclipse-workspace\playground\keycloak\CrunchifySpringMVCTutorial\src\main\resources
+2018-08-30 16:32:27,644 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-30 16:32:27,749 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\adam.burke\eclipse-workspace\playground\keycloak\CrunchifySpringMVCTutorial\src\test\resources

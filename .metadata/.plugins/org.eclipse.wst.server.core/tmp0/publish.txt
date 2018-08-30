@@ -1,4 +1,4 @@
 #Tomcat publish data
-#Thu Aug 30 14:51:01 EDT 2018
+#Thu Aug 30 16:32:35 EDT 2018
 org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\adam.burke\\.m2\\repository\\org\\springframework\\spring-web\\5.0.8.RELEASE\\spring-web-5.0.8.RELEASE.jar=C\:\\apache-tomcat-9.0.11\\wtpwebapps\\CrunchifySpringMVCTutorial\\WEB-INF\\lib\\spring-web-5.0.8.RELEASE.jar
 org.eclipse.jst.jee.server\:CrunchifySpringMVCTutorial=C\:\\apache-tomcat-9.0.11\\wtpwebapps\\CrunchifySpringMVCTutorial
